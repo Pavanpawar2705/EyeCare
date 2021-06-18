@@ -1,0 +1,2 @@
+rootProject.name = "EyeCare"
+include ':app'
