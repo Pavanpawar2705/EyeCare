@@ -55,7 +55,7 @@ public class Classifier {
         @NonNull
         @Override
         public String toString() {
-            return "Title = "+title+", Confidence = "+confidence;
+            return title;
         }
     }
 
