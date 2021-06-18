@@ -1,2 +1,0 @@
-http://github.com/cbitosc/djangocampv2
-https://bit.ly
